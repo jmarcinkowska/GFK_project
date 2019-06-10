@@ -1,0 +1,4102 @@
+700 600
+1 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 299 300
+linia 299 300 281 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 281 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 276 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 276 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 5 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+2 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 298 300
+linia 298 300 282 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 282 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 277 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 277 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 5 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+3 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 297 300
+linia 297 300 283 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 283 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 278 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 278 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 5 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+4 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 296 300
+linia 296 300 284 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 284 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 279 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 279 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 5 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+5 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 295 300
+linia 295 300 285 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 285 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 280 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 280 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+6 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 294 300
+linia 294 300 286 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 286 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 281 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 281 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+7 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 293 300
+linia 293 300 287 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 287 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 282 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 282 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 5 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+8 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 292 300
+linia 292 300 288 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 288 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 283 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 283 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 5 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+9 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 291 300
+linia 291 300 289 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 289 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 284 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 284 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 5 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+10 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 290 300
+linia 290 300 290 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 290 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 285 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 285 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+11 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 289 300
+linia 289 300 291 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 291 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 286 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 286 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+12 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 288 300
+linia 288 300 292 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 292 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 287 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 287 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+13 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 287 300
+linia 287 300 293 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 293 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 288 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 288 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+14 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 286 300
+linia 286 300 294 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 294 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 289 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 289 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 5 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+15 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 285 300
+linia 285 300 295 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 295 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 290 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 290 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+16 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 284 300
+linia 284 300 296 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 296 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 291 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 291 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+17 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 283 300
+linia 283 300 297 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 297 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 292 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 292 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+18 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 282 300
+linia 282 300 298 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 298 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 293 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 293 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+19 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 281 300
+linia 281 300 299 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 299 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 294 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 294 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+20 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 280 300
+linia 280 300 300 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 300 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 295 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 295 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+21 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 279 300
+linia 279 300 301 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 301 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 296 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 296 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+22 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 278 300
+linia 278 300 302 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 302 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 297 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 297 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+23 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 277 300
+linia 277 300 303 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 303 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 298 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 298 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+24 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 276 300
+linia 276 300 304 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 304 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 299 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 299 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+25 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 275 300
+linia 275 300 305 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 305 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 300 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 300 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+26 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 274 300
+linia 274 300 306 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 306 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 301 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 301 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+27 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 273 300
+linia 273 300 307 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 307 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 302 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 302 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+28 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 272 300
+linia 272 300 308 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 308 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 303 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 303 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+29 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 271 300
+linia 271 300 309 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 309 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 304 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 304 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 6 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+30 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 270 300
+linia 270 300 310 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 310 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 305 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 305 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+31 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 269 300
+linia 269 300 311 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 311 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 306 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 306 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+32 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 268 300
+linia 268 300 312 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 312 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 307 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 307 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+33 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 267 300
+linia 267 300 313 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 313 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 308 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 308 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+34 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 266 300
+linia 266 300 314 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 314 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 309 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 309 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+35 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 265 300
+linia 265 300 315 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 315 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 310 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 310 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+36 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 264 300
+linia 264 300 316 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 316 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 311 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 311 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+37 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 263 300
+linia 263 300 317 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 317 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 312 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 312 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+38 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 262 300
+linia 262 300 318 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 318 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 313 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 313 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+39 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 261 300
+linia 261 300 319 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 319 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 314 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 314 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+40 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 260 300
+linia 260 300 320 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 320 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 315 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 315 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+41 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 259 300
+linia 259 300 321 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 321 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 316 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 316 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+42 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 258 300
+linia 258 300 322 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 322 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 317 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 317 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+43 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 257 300
+linia 257 300 323 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 323 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 318 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 318 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+44 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 256 300
+linia 256 300 324 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 324 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 319 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 319 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+45 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 255 300
+linia 255 300 325 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 325 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 320 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 320 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+46 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 254 300
+linia 254 300 326 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 326 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 321 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 321 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+47 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 253 300
+linia 253 300 327 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 327 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 322 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 322 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+48 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 252 300
+linia 252 300 328 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 328 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 323 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 323 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+49 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 251 300
+linia 251 300 329 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 329 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 324 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 324 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 7 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+50 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 300 300
+linia 300 300 280 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 280 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 275 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 275 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+51 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 299 300
+linia 299 300 281 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 281 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 276 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 276 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+52 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 298 300
+linia 298 300 282 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 282 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 277 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 277 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+53 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 297 300
+linia 297 300 283 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 283 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 278 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 278 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+54 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 296 300
+linia 296 300 284 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 284 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 279 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 279 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+55 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 295 300
+linia 295 300 285 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 285 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 280 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 280 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+56 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 294 300
+linia 294 300 286 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 286 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 281 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 281 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+57 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 293 300
+linia 293 300 287 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 287 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 282 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 282 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+58 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 292 300
+linia 292 300 288 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 288 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 283 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 283 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+59 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 291 300
+linia 291 300 289 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 289 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 284 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 284 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+60 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 290 300
+linia 290 300 290 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 290 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 285 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 285 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+61 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 289 300
+linia 289 300 291 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 291 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 286 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 286 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+62 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 288 300
+linia 288 300 292 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 292 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 287 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 287 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+63 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 287 300
+linia 287 300 293 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 293 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 288 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 288 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+64 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 286 300
+linia 286 300 294 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 294 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 289 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 289 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 8 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+65 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 285 300
+linia 285 300 295 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 295 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 290 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 290 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+66 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 284 300
+linia 284 300 296 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 296 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 291 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 291 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+67 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 283 300
+linia 283 300 297 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 297 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 292 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 292 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+68 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 282 300
+linia 282 300 298 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 298 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 293 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 293 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+69 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 281 300
+linia 281 300 299 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 299 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 294 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 294 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+70 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 280 300
+linia 280 300 300 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 300 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 295 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 295 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+71 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 279 300
+linia 279 300 301 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 301 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 296 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 296 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+72 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 278 300
+linia 278 300 302 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 302 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 297 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 297 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+73 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 277 300
+linia 277 300 303 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 303 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 298 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 298 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+74 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 276 300
+linia 276 300 304 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 304 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 299 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 299 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+75 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 275 300
+linia 275 300 305 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 305 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 300 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 300 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+76 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 274 300
+linia 274 300 306 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 306 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 301 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 301 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+77 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 273 300
+linia 273 300 307 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 307 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 302 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 302 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+78 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 272 300
+linia 272 300 308 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 308 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 303 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 303 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+79 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 271 300
+linia 271 300 309 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 309 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 304 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 304 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+80 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 270 300
+linia 270 300 310 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 310 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 305 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 305 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+81 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 269 300
+linia 269 300 311 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 311 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 306 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 306 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+82 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 268 300
+linia 268 300 312 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 312 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 307 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 307 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+83 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 267 300
+linia 267 300 313 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 313 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 308 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 308 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+84 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 266 300
+linia 266 300 314 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 314 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 309 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 309 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 9 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+85 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 265 300
+linia 265 300 315 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 315 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 310 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 310 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+86 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 264 300
+linia 264 300 316 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 316 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 311 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 311 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+87 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 263 300
+linia 263 300 317 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 317 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 312 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 312 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+88 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 262 300
+linia 262 300 318 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 318 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 313 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 313 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+89 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 261 300
+linia 261 300 319 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 319 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 314 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 314 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+90 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 260 300
+linia 260 300 320 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 320 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 315 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 315 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 11 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+91 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 259 300
+linia 259 300 321 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 321 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 316 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 316 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+92 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 258 300
+linia 258 300 322 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 322 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 317 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 317 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+93 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 257 300
+linia 257 300 323 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 323 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 318 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 318 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+94 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 256 300
+linia 256 300 324 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 324 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 319 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 319 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+95 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 255 300
+linia 255 300 325 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 325 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 320 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 320 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 11 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+96 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 254 300
+linia 254 300 326 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 326 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 321 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 321 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 11 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+97 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 253 300
+linia 253 300 327 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 327 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 322 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 322 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 11 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+98 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 252 300
+linia 252 300 328 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 328 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 323 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 323 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+99 25
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 251 300
+linia 251 300 329 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 329 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 324 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 324 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 10 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+100 20
+KW 160 160 160
+KP 160 160 160
+PR 0 420 700 180 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+PR 325 220 50 160 1
+rozmiar_piora 20
+linia 335 380 325 520
+linia 365 380 375 520
+rozmiar_piora 20
+linia 325 225 300 300
+linia 300 300 280 250
+linia 375 225 420 300
+linia 420 300 375 340
+rozmiar_piora 10
+linia 305 520 280 250
+kolor_wypelnienia 64 64 64
+kolor_piora 64 64 64
+elipsa 275 240 10 30 1
+kolor_wypelnienia 96 96 96
+kolor_piora 96 96 96
+elipsa 275 240 10 10 1
+kolor_wypelnienia 255 255 255
+kolor_piora 255 255 255
+trojkat 325 220 375 220 350 250
+kolor_wypelnienia 255 204 153
+kolor_piora 255 204 153
+elipsa 320 150 60 70 1
+kolor_wypelnienia 204 0 0
+kolor_piora 204 0 0
+elipsa 340 200 20 11 1
+kolor_wypelnienia 0 0 0
+kolor_piora 0 0 0
+trojkat 340 200 350 200 345 195
+trojkat 360 200 350 200 355 195
+trojkat 350 200 345 195 355 195
+PR 333 175 10 5 1
+PR 357 175 10 5 1
+TG 300 100
+ST
+KONIEC
